@@ -28,8 +28,10 @@ export default function XDCLaunchpadLanding() {
             <a href="#testimonials" className="text-muted-foreground hover:text-foreground transition-colors">
               Success Stories
             </a>
-            <Button variant="outline" size="sm">
-              Start
+            <Button variant="outline" size="sm" asChild>
+              <a href="https://www.placeholder.com" target="_blank" rel="noopener noreferrer">
+                Start
+              </a>
             </Button>
           </nav>
         </div>
