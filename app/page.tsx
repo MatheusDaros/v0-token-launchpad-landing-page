@@ -45,7 +45,7 @@ export default function XDCLaunchpadLanding() {
             Powered by XDC Network
           </Badge>
           <h1 className="text-4xl md:text-6xl font-bold text-pink-500 mb-6 text-balance">
-            Unlock Future Gains with <span className="text-pink-500">XDC Airdrops</span>
+            Unlock Future Airdrops with <span className="text-pink-500">$VIBE XDC Launchpad</span>
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto text-pretty">
             Deposit XDC tokens in our smart contract and receive exclusive airdrops from the most promising projects
