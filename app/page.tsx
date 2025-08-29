@@ -29,7 +29,7 @@ export default function XDCLaunchpadLanding() {
               Success Stories
             </a>
             <Button variant="outline" size="sm" asChild>
-              <a href="https://www.placeholder.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://vibe-xdc-launchpad.vercel.app/" target="_blank" rel="noopener noreferrer">
                 Start
               </a>
             </Button>
